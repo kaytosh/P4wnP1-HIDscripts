@@ -1,4 +1,4 @@
-# P4wnP1-HIDscripts
+# P4wnP1 hidscripts
 
 *quack.js*
 
