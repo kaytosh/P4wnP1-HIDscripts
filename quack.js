@@ -6,4 +6,4 @@ press("GUI r");
 delay(500);
 type("notepad\n")
 delay(500);
-type("you just got QUACKED!\n=========================\nsomeone can access your computer by pluging something to it\n=========================\nBE CAREFULL! >_< ")
+type("you just got QUACKED!\n=========================\nsomeone can access your computer by pluging something to it\n=========================\nBE CAREFUL! >_< ")
